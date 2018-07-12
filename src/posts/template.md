@@ -8,5 +8,5 @@ link: bitcoin-supreme-court
 ## How can that be?
 Here is part one of my article blah blah  
 ## But Bitcoin is not a company, it's decentralized!
-Here is part two of my article
+Here is part two of my article with a link to the article [Supreme court case](https://www.supremecourt.ca/bitcoin)  
 
