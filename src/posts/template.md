@@ -1,8 +1,8 @@
-title: Bitcoin taken to supreme court
-tags: ["supreme court", "case"]
-date: June 11th, 2018
-author: Some Lawyer
-link: bitcoin-supreme-court
+title: Bitcoin taken to supreme court  
+tags: ["supreme court", "case"]  
+date: June 11th, 2018  
+author: Some Lawyer  
+link: bitcoin-supreme-court  
 ---
 # Supreme court case against Bitcoin
 ## How can that be?
